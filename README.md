@@ -9,5 +9,6 @@ To get started with this project, you will need to have a working React Native e
 
 Once you have your environment set up, you can clone this repository to your local machine and run the following commands in your terminal:
 
-`$ cd reactnative-form`
-`$ npm install`
+`cd reactnative-form`
+
+`npm install`
